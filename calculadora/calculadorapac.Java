@@ -1,5 +1,5 @@
-package calculadorapac
-public class Calculadora {
+package calculadora;
+public class calculadorapac {
 
     public Double Numero1;
     public Double Numero2;
