@@ -1,4 +1,3 @@
-package calculadora;
 import calculadorapac.Calculadora;
 
 public class ExeCalculadora {
