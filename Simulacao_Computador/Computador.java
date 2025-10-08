@@ -1,6 +1,6 @@
 public class Computador {
-    private String marca;
-    private String modelo;
+    public String marca;
+    public String modelo;
     private int memoriaRAM;
     private int armazenamento;
     private int nucleos;
